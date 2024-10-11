@@ -1,0 +1,70 @@
+{
+  "users":
+  [
+    {
+      "user":"gia",
+      "score":11110,
+      "profile": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/53ef68e2132b24124f38511b8fc5eb91.jpeg?lk3s=a5d48078&nonce=52621&refresh_token=1f72cc9eb816c795e04685b384e9e73a&x-expires=1728838800&x-signature=5yrdq3mZLJpmggcxctcniy0ShMs%3D&shp=a5d48078&shcp=81f88b70"
+      },
+      {
+      "user":"nika",
+      "score":150,
+      "profile": "https://static.vecteezy.com/system/resources/previews/019/879/186/non_2x/user-icon-on-transparent-background-free-png.png"
+      },
+      {
+      "user":"nino",
+      "score":102,
+      "profile": "https://static.vecteezy.com/system/resources/previews/019/879/186/non_2x/user-icon-on-transparent-background-free-png.png"
+      },
+      {
+        "user":"eka",
+        "score": 239,
+        "profile": "https://static.vecteezy.com/system/resources/previews/019/879/186/non_2x/user-icon-on-transparent-background-free-png.png"
+      },
+      {
+        "user":"vaja",
+        "score": 938,
+        "profile": "https://static.vecteezy.com/system/resources/previews/019/879/186/non_2x/user-icon-on-transparent-background-free-png.png"
+      },
+      {
+        "user":"mari",
+        "score": 764,
+        "profile": "https://static.vecteezy.com/system/resources/previews/019/879/186/non_2x/user-icon-on-transparent-background-free-png.png"
+      },
+      {
+        "user":"jaba",
+        "score": 900,
+        "profile": "https://static.vecteezy.com/system/resources/previews/019/879/186/non_2x/user-icon-on-transparent-background-free-png.png"
+      },
+      {
+        "user":"tika",
+        "score": 199,
+        "profile": "https://static.vecteezy.com/system/resources/previews/019/879/186/non_2x/user-icon-on-transparent-background-free-png.png"
+      },
+      {
+        "user":"vika",
+        "score": 847,
+        "profile": "https://static.vecteezy.com/system/resources/previews/019/879/186/non_2x/user-icon-on-transparent-background-free-png.png"
+      },
+      {
+        "user":"luka",
+        "score": 1001,
+        "profile": "https://static.vecteezy.com/system/resources/previews/019/879/186/non_2x/user-icon-on-transparent-background-free-png.png"
+      },
+      {
+        "user":"gela",
+        "score": 1106,
+        "profile": "https://static.vecteezy.com/system/resources/previews/019/879/186/non_2x/user-icon-on-transparent-background-free-png.png"
+      },
+      {
+        "user":"hacker",
+        "score": 99999,
+        "profile": "https://static.vecteezy.com/system/resources/previews/019/879/186/non_2x/user-icon-on-transparent-background-free-png.png"
+      },
+      {
+        "user":"ia",
+        "score": 100,
+        "profile": "https://static.vecteezy.com/system/resources/previews/019/879/186/non_2x/user-icon-on-transparent-background-free-png.png"
+      }
+  ]
+}

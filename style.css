@@ -1,0 +1,99 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    user-select: none;
+    scroll-behavior: smooth;
+    font-family: "Poppins", sans-serif;
+    background-color: #f2f2f2;
+    color: #000;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 64px;
+}
+
+.container {
+    background-color: #fff;
+    border: none;
+    border-radius: 18px;
+    padding: 32px;
+    display: grid;
+    flex-direction: column;
+    gap: 12px;
+    box-shadow: 10px 10px 20px #00000046,
+                -10px -10px 20px #dfdfdf56,
+                inset -10px -10px 20px #0000001c,
+                inset 10px 10px 20px #dfdfdf7c;
+    transition: 200ms;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+}
+            
+.container:hover {
+    box-shadow: 10px 10px 20px #00000046,
+                -10px -10px 20px #dfdfdf56,
+                inset 10px 10px 20px #0000001c,
+                inset -10px -10px 20px #dfdfdf7c;
+}
+
+.wrapper {
+    width: 400px;
+    padding: 28px;
+    background-color: #f2ecff;
+    border-radius: 16px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.place {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: #000;
+    font-weight: 600;
+    stroke: 2px #000;
+}
+
+.profile {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/019/879/186/non_2x/user-icon-on-transparent-background-free-png.png);
+    height: 40px; width: 40px;
+    background-color: transparent;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+}
+
+.name, .score {
+    font-weight: 500;
+}
+
+.score {
+    border: 2px solid #0c59ff;
+    padding: 4px 8px;
+    border-radius: 12px;
+    text-shadow: 1px 1px 1px #00000083;
+}
+
+.error {
+    color: #fff;
+    background-color: red;
+    border: none;
+    border-radius: 16px;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+}
